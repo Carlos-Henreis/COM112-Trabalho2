@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Arquivos de Cabeçalho"
+                   projectFiles="true">
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Btree.h</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Conversion.h</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/RBtree.h</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/VP.h</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/menu.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Arquivos de Código-Fonte"
+                   projectFiles="true">
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Btree.c</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Conversion.c</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/RBtree.c</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/VP.c</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/main.c</itemPath>
+      <itemPath>../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/menu.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Arquivos de Recurso"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Arquivos de Teste"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos Importantes"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Btree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Conversion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/RBtree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/VP.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/menu.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Btree.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Conversion.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/RBtree.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/VP.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/main.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/menu.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Btree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/Conversion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/RBtree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/VP.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Cabeçalho/menu.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Btree.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/Conversion.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/RBtree.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/VP.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/main.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Área de Trabalho/[COM-112] Trabalho Prático 2/Arquivos de Código-Fonte/menu.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
